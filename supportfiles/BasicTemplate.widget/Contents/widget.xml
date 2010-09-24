@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<!-- These items should be edited to reflect proper values for your widget -->
+	<identifier>com.your-company.app-name</identifier>
+	<version>0.1</version>
+	<name>Your Widget Name</name>
+	<author name="Author Name" organization="Company Name" href="http://www.your-company.com"/>
+    <copyright>2010 Your Company</copyright>
+    <description>A short description of your widget</description>
+
+	<!-- Only change these lines if your files must be named differently for some reason -->
+    <image usage="960x540.logo" src="Images/960x540/logo.png"/>
+    <image usage="1920x1080.logo" src="Images/1920x1080/logo.png"/>
+	<image usage="960x540.icon" src="Images/960x540/icon.png"/>
+	<image usage="1920x1080.icon" src="Images/1920x1080/icon.png"/>
+
+	<!-- Do not change anything below here unless specifically instructed by the widget support team -->
+	<platform minVersion="5.0" />
+	<security>
+		<filesystem>full</filesystem>
+		<command>true</command>
+		<http>all</http>
+    </security>
+</metadata>

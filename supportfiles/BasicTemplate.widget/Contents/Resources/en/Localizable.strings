@@ -1,0 +1,24 @@
+/* Framework strings */
+"_framework_string_PAGE"     = "PAGE";
+"_framework_string_OF"       = "OF";
+"_framework_string_Cancel"   = "Cancel";
+"_framework_string_OK"       = "OK";
+"_framework_string_Search"   = "Search";
+"_framework_string_Settings" = "Settings";
+"_framework_string_Back"     = "Back";
+"_framework_string_PRIVACY"  = "Privacy Policy";
+"_framework_string_TOS"      = "Terms of Service";
+"_framework_string_COPY"     = "Copyright Agreement";
+"_framework_string_MORE_INFO"       = "For more information";
+"_framework_string_COPYRIGHT"       = "Copyright";
+"_framework_string_RIGHTS_RESERVED" = "All Rights Reserved";
+"_framework_string_WIDGET_BY"       = "Widget by";
+"_framework_string_ABOUT"           = "About";
+"_framework_string_NO_DATA"                      = "No data provided";
+"_framework_string_NO_CONNECTION_DIALOG_TITLE"   = "Connection Disconnected";
+"_framework_string_NO_CONNECTION_DIALOG_MESSAGE" = "The network connection is disconnected. Please check your TV's network settings, ethernet connection, and/or wireless network then try again.";
+"_framework_string_CLOSE_WIDGET_DIALOG_BUTTON"   = "Close Widget";
+"_framework_string_NO_NETWORK_DIALOG_TITLE"      = "Connection Unavailable";
+"_framework_string_NO_NETWORK_DIALOG_MESSAGE"    = "The Widget is unable to refresh its data and will be closed. Please try again later.";
+"_framework_string_NO_RESULTS_FOUND"             = "No results found";
+"_framework_string_PAGE_X_OF_X"                  = "PAGE %1$s OF %2$s";

@@ -1,0 +1,16 @@
+/* Framework Strings */
+"_framework_string_PAGE"     = "PÁGINA";
+"_framework_string_OF"       = "DE";
+"_framework_string_Cancel"   = "Cancelar";
+"_framework_string_OK"       = "Aceptar";
+"_framework_string_Search"   = "Búsqueda";
+"_framework_string_Settings" = "Configuración";
+"_framework_string_Back"     = "Atrás";
+"_framework_string_PRIVACY"  = "Política de privacidad";
+"_framework_string_TOS"      = "Condiciones del servicio";
+"_framework_string_COPY"     = "Política de copyright";
+"_framework_string_MORE_INFO"       = "Para obtener más información";
+"_framework_string_COPYRIGHT"       = "©";
+"_framework_string_RIGHTS_RESERVED" = "Todos los derechos reservados";
+"_framework_string_WIDGET_BY"       = "Widget de";
+"_framework_string_ABOUT"           = "Acerca de";

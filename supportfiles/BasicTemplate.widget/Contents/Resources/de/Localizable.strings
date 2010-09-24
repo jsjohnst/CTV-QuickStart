@@ -1,0 +1,16 @@
+/* Framework Strings */
+"_framework_string_PAGE"     = "SEITE";
+"_framework_string_OF"       = "VON";
+"_framework_string_Cancel"   = "Abbrechen";
+"_framework_string_OK"       = "OK";
+"_framework_string_Search"   = "Suchen";
+"_framework_string_Settings" = "Einstellungen";
+"_framework_string_Back"     = "Zurück";
+"_framework_string_PRIVACY"  = "Datenschutz";
+"_framework_string_TOS"      = "Allgemeine Geschäftsbedingungen";
+"_framework_string_COPY"     = "Richtlinie zum Urheberrecht";
+"_framework_string_MORE_INFO"       = "Weitere Informationen";
+"_framework_string_COPYRIGHT"       = "©";
+"_framework_string_RIGHTS_RESERVED" = "Alle Rechte vorbehalten";
+"_framework_string_WIDGET_BY"       = "Widget von";
+"_framework_string_ABOUT"           = "Info";

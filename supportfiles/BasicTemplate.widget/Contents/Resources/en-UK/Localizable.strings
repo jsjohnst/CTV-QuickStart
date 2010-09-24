@@ -1,0 +1,16 @@
+/* Framework Strings */
+"_framework_string_PAGE"     = "PAGE";
+"_framework_string_OF"       = "OF";
+"_framework_string_Cancel"   = "Cancel";
+"_framework_string_OK"       = "OK";
+"_framework_string_Search"   = "Search";
+"_framework_string_Settings" = "Settings";
+"_framework_string_Back"     = "Back";
+"_framework_string_PRIVACY"  = "Privacy Policy";
+"_framework_string_TOS"      = "Terms of Service";
+"_framework_string_COPY"     = "Copyright Agreement";
+"_framework_string_MORE_INFO"       = "For more information";
+"_framework_string_COPYRIGHT"       = "Copyright";
+"_framework_string_RIGHTS_RESERVED" = "All Rights Reserved";
+"_framework_string_WIDGET_BY"       = "Widget by";
+"_framework_string_ABOUT"           = "About";
