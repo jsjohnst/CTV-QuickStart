@@ -3,5 +3,5 @@ Vagrant::Config.run do |config|
 	config.vm.boot_mode = "gui"
 	config.vm.forward_port("console", 8008, 8008)
 	config.vm.forward_port("ssh", 22, 2222)
-  config.vm.shared_folder("devwidgets", "/devwidgets", ".")
+  config.vm.share_folder("devwidgets", "/devwidgets", ".")
 end
